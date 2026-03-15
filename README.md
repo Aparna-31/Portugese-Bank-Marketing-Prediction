@@ -73,10 +73,6 @@ Model Performance
 Accuracy
 81.86%
 
-Confusion Matrix
-	      Predicted No	          Predicted Yes
-Actual No	  6127	               1138
-Actual Yes	  356	                 615
 Model Evaluation Insights
 
 In marketing prediction problems, Recall is a critical metric.
