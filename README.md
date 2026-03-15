@@ -71,17 +71,12 @@ It performs well for marketing response prediction
 
 Model Performance
 Accuracy
-
 81.86%
 
-Classification Report
-Class	Precision	Recall	F1 Score	Support
-Not Subscribed (0)	0.95	0.84	0.89	7265
-Subscribed (1)	0.35	0.63	0.45	971
 Confusion Matrix
-	Predicted No	Predicted Yes
-Actual No	6127	1138
-Actual Yes	356	615
+	      Predicted No	          Predicted Yes
+Actual No	  6127	               1138
+Actual Yes	  356	                 615
 Model Evaluation Insights
 
 In marketing prediction problems, Recall is a critical metric.
